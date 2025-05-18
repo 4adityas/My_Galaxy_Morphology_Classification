@@ -2,13 +2,6 @@
 
 Using a Convolution Neural Network (CNN), we trained a regression model on tens of thousands of images of galaxies to make predictions on what people would classify a galaxy as. This is a regression because we are not directly classifying galaxies, but rather predicting the fraction of people who would classify the galaxy in such a way. 
 
-## Group Members
-- Zachary Aaronson
-    - Data, model, training
-- Kali Schoenrock
-    - Presentation
-- Jason Stone
-    - Visualizations
 
 ## Setup
 ### Data Sources
